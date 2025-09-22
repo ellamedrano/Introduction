@@ -16,7 +16,6 @@ One of my goals here is to get more comfortable using GitHub—not just for scho
 * Watching movies & series 🎬 
 * Playing video games🎮
 * Photography (taking pictures of coffee and my dogs) ☕ 
-* Collecting "Hello, World!" programs 💻
 
 <br>
 
