@@ -49,4 +49,5 @@ One of my goals here is to get more comfortable using GitHub—not just for scho
 ---
 
 <br>
+
 ![Footer](https://i.pinimg.com/1200x/e2/1f/8d/e21f8d15fad55c76c6b1a7fa7ad6b5e3.jpg)
