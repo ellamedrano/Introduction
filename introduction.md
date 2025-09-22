@@ -1,8 +1,8 @@
 ## Ella Mae Loria Medrano
 
 
-Hello, everyone!👋🏻 My name is Ella Mae Medrano and I am a Freshman student in Bicol University with an interest in computer science and creative projects. 👾  
-One of my goals here is to get more comfortable using GitHub—not just for school projects, but also as a space for the little personal and creative experiments I love starting (and hopefully finishing).
+Hello, everyone!👋🏻 My name is Ella Mae Medrano and I am a Freshman student in Bicol University with an interest in computer science and creative projects. 👾 <br> 
+One of my goals here is to get more comfortable using GitHub—not just for school projects, but also as a space for the little personal experiments I like starting (and hopefully finishing).
     
 ---
 
