@@ -14,7 +14,7 @@ One of my goals here is to get more comfortable using GitHub—not just for scho
 * Playing the acoustic and bass guitar 🎸 
 * Watching movies & series 🎬 
 * Playing video games🎮
-* Photography (taking aesthetic pictures of coffee and my dogs) ☕ 
+* Photography (taking pictures of coffee and my dogs) ☕ 
 * Collecting "Hello, World!" programs 💻
 
 <br>
